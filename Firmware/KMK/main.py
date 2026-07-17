@@ -61,6 +61,6 @@ if __name__ == '__main__':
     keyboard.go()
 
 
-# Note for Reviewer: OLED Screen (SSD1306) is wired to I2C pins (SCL/SDA). 
+# OLED Screen (SSD1306) is wired to I2C pins (SCL/SDA). 
 # Display code and Adafruit libraries will be added locally once hardware arrives.
 # I'll also change some key functionalities after I have the screen working
